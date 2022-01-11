@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+setup.py
+EelForkExcludeFiles/__init__.py
+EelForkExcludeFiles/__main__.py
+EelForkExcludeFiles/browsers.py
+EelForkExcludeFiles/chrome.py
+EelForkExcludeFiles/edge.py
+EelForkExcludeFiles/electron.py
+EelForkExcludeFiles.egg-info/PKG-INFO
+EelForkExcludeFiles.egg-info/SOURCES.txt
+EelForkExcludeFiles.egg-info/dependency_links.txt
+EelForkExcludeFiles.egg-info/requires.txt
+EelForkExcludeFiles.egg-info/top_level.txt
